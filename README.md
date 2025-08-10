@@ -20,11 +20,6 @@ PRESCRIPTO is a medical appointment booking system that allows patients to book,
 **Authentication:** JWT  
 **Image Hosting:** Cloudinary
 
----
 
-## 🚀 Getting Started
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/<your-username>/PRESCRIPTO.git
-cd PRESCRIPTO
+
